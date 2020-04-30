@@ -1,2 +1,1 @@
-# hello-world
-First test project
+Welcome to my first project you can view all you want
